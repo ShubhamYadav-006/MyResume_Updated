@@ -75,8 +75,8 @@ body{
 }
 
 #image{
-    width:230px;
-    height:230px;
+    width:240px;
+    height:270px;
     border-radius:50%;
     object-fit:cover;
     border:6px solid #2563EB;
